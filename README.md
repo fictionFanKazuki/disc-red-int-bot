@@ -1,6 +1,6 @@
 # DRIB: Discord Reddit Integrator Bot
 
-## <div align=right> [Video demo over here!](https://youtube.com)
+## <div align=right> [Video demo over here!](https://youtu.be/knVU6Ff3YDg)
 
 # Meet Drib!
 
