@@ -68,7 +68,7 @@ Usage:
 
 ## r
 
-Bored and up for playing some Russian Roulette? The `r` command forgoes the `criteria` argument in `srch` and instead returns (a) completely random post(s) from your chosen subreddit. *According to the PRAW documentaion, not all subreddits support this. I have no idea which ones do and don't, but as a general rule of thumb if DRIB doesn't respond in five business days (lmao) it's probably not supported.*
+Bored and up for playing some Russian Roulette? The `r` command forgoes the `criteria` argument in `srch` and instead returns (a) completely random post(s) from your chosen subreddit. *According to the PRAW documentation, not all subreddits support this. I have no idea which ones do and don't, but as a general rule of thumb if DRIB doesn't respond in five business days (lmao) it's probably not supported.*
 
 ~~*no, there's no issue with my code i swear*~~
 
